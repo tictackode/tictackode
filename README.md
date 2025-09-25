@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Regson Jaques!
 
 Welcome to my GitHub profile!  
-I'm a passionate hobbyist coder who loves bringing ideas to life—especially through game development and playful programming challenges. For years, I've been exploring C, C++, Java, Visual Basic and even Common Lisp and C#, building everything from classic game clones to experimental graphics effects.
+I'm an Information Systems Bachelor that writes code even by hobby, aimming to become a better professional. I love to bring ideas to life, especially through game development and playful programming challenges. For years, I've been exploring C, C++, Java, Visual Basic and even Common Lisp and C#, building everything from classic game clones to experimental graphics effects.
 
 ## 🎮 Game Dev Playground
 
