@@ -5,7 +5,7 @@ I'm an Information Systems Bachelor that writes code even by hobby, aimming to b
 
 ## 🎮 Game Dev Playground
 
-Coding for fun has always been my fuel. Some of my favorite projects include:
+Coding even for fun has always been my fuel. Some of my favorite projects include:
 
 - [Project Mode 7](https://github.com/tictackode/Project-Mode-7-The-famous-perspective-effect-applied-in-a-road)  
   *C + Allegro 4.2*  
